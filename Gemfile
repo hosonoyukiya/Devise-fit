@@ -59,7 +59,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'devise'
 
 gem 'cancancan'
-gem 'rails_admin'
+
+
 
 gem 'dotenv-rails'
 group :production do
@@ -69,4 +70,3 @@ end
 
 gem "net-pop"
 gem "net-imap"
-
